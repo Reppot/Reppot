@@ -17,19 +17,19 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Reppot/Studio"><img src="./assets/studio.svg" alt="Веб-студия" width="100%" /></a>
+<a href="https://github.com/Reppot/Studio"><img src="./assets/studio-current.svg" alt="Веб-студия" width="100%" /></a>
 <p>Сайты с трёхмерной графикой и интерактивными конфигураторами.</p>
 <p><a href="https://studio-web-prototype.reppot-6.chatgpt.site/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Studio">Код</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls.svg" alt="Магазин одежды" width="100%" /></a>
+<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls-current.svg" alt="Магазин одежды" width="100%" /></a>
 <p>Каталог одежды, корзина и редактор принтов.</p>
 <p><a href="https://our-souls-shop.onrender.com/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Oursouls">Код</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris.svg" alt="Синдарис" width="100%" /></a>
+<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris-current.svg" alt="Синдарис" width="100%" /></a>
 <p>Логистика Foxhole: склады, заявки и производство.</p>
 <p><a href="https://sandalis-web-v2-0.onrender.com/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Sandalis-web-v2.0">Код</a></p>
 </td>

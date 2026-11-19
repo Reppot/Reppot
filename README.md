@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Код. Форма. Движение." width="100%" />
+  <img src="./assets/header.svg" alt="Сайты с характером" width="100%" />
   <br /><br />
   <a href="https://studio-web-prototype.reppot-6.chatgpt.site/">Портфолио</a>
   &nbsp; / &nbsp;
@@ -14,29 +14,32 @@
 
 ### Избранные проекты
 
-<a href="https://github.com/Reppot/Studio"><img src="./assets/studio.svg" alt="Веб-студия — снимок настоящего сайта" width="100%" /></a>
-
-Витрина проектов с трёхмерной графикой, анимациями и конфигуратором мебели.
-
-[**Открыть сайт ↗**](https://studio-web-prototype.reppot-6.chatgpt.site/) · [Код](https://github.com/Reppot/Studio)
-
-<br />
-
-<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls.svg" alt="Магазин одежды — снимок настоящей витрины" width="100%" /></a>
-
-Каталог одежды, корзина и редактор принтов с экспортом заказа.
-
-[**Открыть сайт ↗**](https://our-souls-shop.onrender.com/) · [Код](https://github.com/Reppot/Oursouls)
-
-<br />
-
-<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris.svg" alt="Синдарис — снимок рабочего интерфейса" width="100%" /></a>
-
-Склады, заявки, таймеры резервов и расчёт производства для Foxhole.
-
-[**Открыть сайт ↗**](https://sandalis-web-v2-0.onrender.com/) · [Код](https://github.com/Reppot/Sandalis-web-v2.0)
-
-Ещё один инструмент: [**Сканер складов Foxhole ↗**](https://github.com/Reppot/Foxhole-Storage-Scanner) — русская локализация и отправка отчётов в Discord на основе [foxhole-stockpiles](https://github.com/xurxogr/foxhole-stockpiles).
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Reppot/Studio"><img src="./assets/studio.svg" alt="Веб-студия" width="100%" /></a>
+<p>Сайты с трёхмерной графикой и интерактивными конфигураторами.</p>
+<p><a href="https://studio-web-prototype.reppot-6.chatgpt.site/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Studio">Код</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls.svg" alt="Магазин одежды" width="100%" /></a>
+<p>Каталог одежды, корзина и редактор принтов.</p>
+<p><a href="https://our-souls-shop.onrender.com/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Oursouls">Код</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris.svg" alt="Синдарис" width="100%" /></a>
+<p>Логистика Foxhole: склады, заявки и производство.</p>
+<p><a href="https://sandalis-web-v2-0.onrender.com/"><b>Открыть сайт ↗</b></a> · <a href="https://github.com/Reppot/Sandalis-web-v2.0">Код</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Reppot/Foxhole-Storage-Scanner">Сканер складов ↗</a></h3>
+<p>Русская локализация и отправка отчётов в Discord на основе <a href="https://github.com/xurxogr/foxhole-stockpiles">foxhole-stockpiles</a>.</p>
+<p><a href="https://github.com/Reppot/Foxhole-Storage-Scanner"><b>Открыть проект ↗</b></a></p>
+</td>
+</tr>
+</table>
 
 ### Языки и технологии
 

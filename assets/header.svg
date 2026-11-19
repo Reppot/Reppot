@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Reppot — Creative web, interfaces and tools</title>
+<desc id="desc">Dark editorial banner with mint contour lines and the Reppot wordmark.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#91e5be" stop-opacity=".08"/><stop offset=".6" stop-color="#91e5be" stop-opacity=".8"/><stop offset="1" stop-color="#91e5be" stop-opacity=".15"/></linearGradient>
+  <clipPath id="clip"><rect width="1200" height="340"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="340" fill="#0d1117"/>
+<rect width="1200" height="340" fill="url(#grid)"/>
+<path d="M44 42H68M44 42V66M1132 298H1156M1156 274V298" fill="none" stroke="#91e5be" stroke-width="2"/>
+<g fill="none" stroke="url(#line)" stroke-width="1.3">
+<path d="M740 -30 C620 75,1100 110,840 370"/>
+<path d="M748 -30 C634 78,1093 116,856 370"/>
+<path d="M756 -30 C648 81,1086 122,872 370"/>
+<path d="M764 -30 C662 84,1079 128,888 370"/>
+<path d="M772 -30 C676 87,1072 134,904 370"/>
+<path d="M780 -30 C690 90,1065 140,920 370"/>
+<path d="M788 -30 C704 93,1058 146,936 370"/>
+<path d="M796 -30 C718 96,1051 152,952 370"/>
+<path d="M804 -30 C732 99,1044 158,968 370"/>
+<path d="M812 -30 C746 102,1037 164,984 370"/>
+<path d="M820 -30 C760 105,1030 170,1000 370"/>
+<path d="M828 -30 C774 108,1023 176,1016 370"/>
+<path d="M836 -30 C788 111,1016 182,1032 370"/>
+<path d="M844 -30 C802 114,1009 188,1048 370"/>
+<path d="M680 35 C820 -10,990 135,1240 55" stroke-opacity=".35"/>
+<path d="M680 77 C820 32,990 155,1240 92" stroke-opacity=".35"/>
+<path d="M680 119 C820 74,990 175,1240 129" stroke-opacity=".35"/>
+<path d="M680 161 C820 116,990 195,1240 166" stroke-opacity=".35"/>
+<path d="M680 203 C820 158,990 215,1240 203" stroke-opacity=".35"/>
+<path d="M680 245 C820 200,990 235,1240 240" stroke-opacity=".35"/>
+<path d="M680 287 C820 242,990 255,1240 277" stroke-opacity=".35"/>
+</g>
+<text x="78" y="78" fill="#91e5be" font-family="monospace" font-size="14" letter-spacing="4">CREATIVE WEB / INTERFACES / TOOLS</text>
+<text x="70" y="209" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="700" letter-spacing="-6">REPPOT<tspan fill="#91e5be">.</tspan></text>
+<path d="M78 241H640" stroke="#30363d"/>
+<text x="78" y="278" fill="#8b949e" font-family="monospace" font-size="16" letter-spacing="1">VISUAL IDEAS. WORKING PRODUCTS.</text>
+<circle cx="1110" cy="70" r="5" fill="#91e5be"/>
+<text x="1090" y="292" fill="#91e5be" font-family="monospace" font-size="13" letter-spacing="2">&lt;/&gt;</text>
+</g>
+</svg>

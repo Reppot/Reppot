@@ -1,45 +1,42 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Reppot — Creative web, interfaces and tools" width="100%" />
+  <img src="./assets/header.svg" alt="Код. Форма. Движение." width="100%" />
   <br /><br />
   <a href="https://studio-web-prototype.reppot-6.chatgpt.site/">Портфолио</a>
   &nbsp; / &nbsp;
-  <a href="https://t.me/he_real_slim_shady">Telegram</a>
+  <a href="https://t.me/he_real_slim_shady">Телеграм</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/Reppot?tab=repositories">Репозитории</a>
 </div>
 
 <br />
 
-Создаю сайты с выразительной графикой, интерактивные интерфейсы и инструменты автоматизации на Python. В моих проектах — WebGL-витрины, конфигураторы, интернет-магазин и сервисы для игровой логистики.
+Создаю сайты с выразительной графикой, интерактивные интерфейсы и инструменты автоматизации на Python. В моих проектах — трёхмерные витрины, конфигураторы, интернет-магазин и сервисы для игровой логистики.
 
 ### Избранные проекты
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Reppot/Studio"><img src="./assets/studio.svg" alt="Studio — интерактивные сайты и WebGL" width="100%" /></a>
-<p>WebGL-витрина, анимации прокрутки и 3D-конфигуратор мебели.</p>
-<p><a href="https://studio-web-prototype.reppot-6.chatgpt.site/"><b>Открыть сайт ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/Reppot/Studio">Код</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls.svg" alt="Our Souls — магазин одежды и редактор принтов" width="100%" /></a>
-<p>Каталог одежды, корзина и редактор принтов на Canvas 2D с экспортом заказа.</p>
-<p><a href="https://our-souls-shop.onrender.com/"><b>Открыть сайт ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/Reppot/Oursouls">Код</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris.svg" alt="SINDARIS Terminal — логистика Foxhole" width="100%" /></a>
-<p>Склады, заявки, таймеры резервов и расчёт производства для Foxhole.</p>
-<p><a href="https://sandalis-web-v2-0.onrender.com/"><b>Открыть сайт ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/Reppot/Sandalis-web-v2.0">Код</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Reppot/Foxhole-Storage-Scanner"><img src="./assets/scanner.svg" alt="Foxhole Storage Scanner — автоматизация отчётов" width="100%" /></a>
-<p>Русская локализация и доставка отчётов о складах в Discord. На основе <a href="https://github.com/xurxogr/foxhole-stockpiles">foxhole-stockpiles</a>.</p>
-<p><a href="https://github.com/Reppot/Foxhole-Storage-Scanner"><b>Открыть проект ↗</b></a></p>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Reppot/Studio"><img src="./assets/studio.svg" alt="Веб-студия — снимок настоящего сайта" width="100%" /></a>
+
+Витрина проектов с трёхмерной графикой, анимациями и конфигуратором мебели.
+
+[**Открыть сайт ↗**](https://studio-web-prototype.reppot-6.chatgpt.site/) · [Код](https://github.com/Reppot/Studio)
+
+<br />
+
+<a href="https://github.com/Reppot/Oursouls"><img src="./assets/oursouls.svg" alt="Магазин одежды — снимок настоящей витрины" width="100%" /></a>
+
+Каталог одежды, корзина и редактор принтов с экспортом заказа.
+
+[**Открыть сайт ↗**](https://our-souls-shop.onrender.com/) · [Код](https://github.com/Reppot/Oursouls)
+
+<br />
+
+<a href="https://github.com/Reppot/Sandalis-web-v2.0"><img src="./assets/sindaris.svg" alt="Синдарис — снимок рабочего интерфейса" width="100%" /></a>
+
+Склады, заявки, таймеры резервов и расчёт производства для Foxhole.
+
+[**Открыть сайт ↗**](https://sandalis-web-v2-0.onrender.com/) · [Код](https://github.com/Reppot/Sandalis-web-v2.0)
+
+Ещё один инструмент: [**Сканер складов Foxhole ↗**](https://github.com/Reppot/Foxhole-Storage-Scanner) — русская локализация и отправка отчётов в Discord на основе [foxhole-stockpiles](https://github.com/xurxogr/foxhole-stockpiles).
 
 ### Языки и технологии
 
@@ -50,13 +47,10 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,docker,git&theme=dark" alt="Python, FastAPI, PostgreSQL, Supabase, Docker, Git" />
 </p>
 
-<sub>Стек из публичных репозиториев Studio, Our Souls и SINDARIS.</sub>
-
 ### Статистика GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Reppot&theme=dark&hide_border=true&background=10110E&ring=D6FF62&fire=D6FF62&currStreakLabel=D6FF62" alt="Активность Reppot на GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reppot&layout=compact&hide_border=true&bg_color=10110E&title_color=D6FF62&text_color=C9D1D9" alt="Языки в публичных репозиториях Reppot" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Reppot&locale=ru&theme=dark&hide_border=true&background=10110E&ring=D6FF62&fire=D6FF62&currStreakLabel=D6FF62" alt="Активность Reppot на GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reppot&locale=ru&layout=compact&hide_border=true&bg_color=10110E&title_color=D6FF62&text_color=C9D1D9" alt="Языки в публичных репозиториях Reppot" />
 </p>
 
-<sub>Статистика языков отражает состав репозиториев.</sub>
